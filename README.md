@@ -1,0 +1,2 @@
+# Gradient-Boosting-and-XGBOOST--Fraud-detection-model-in-R-and-Python-Coursework-
+Machine Learning for Finance — Gradient Boosting &amp; XGBoost for Credit Card Fraud Detection  This repository contains a comprehensive implementation of gradient boosting algorithms  and XGBoost for credit card fraud detection, developed as part of the ECOM198 Machine  Learning for Finance course at Queen Mary University of London.
